@@ -1,0 +1,6 @@
+com\gtalent\controller\UserController.class
+com\gtalent\view\MainFrame.class
+com\gtalent\controller\UserController$ActionAvailability.class
+com\gtalent\Main.class
+com\gtalent\util\Validator$TileInfo.class
+com\gtalent\util\Validator.class
